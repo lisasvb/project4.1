@@ -1,0 +1,49 @@
+body{
+
+    background-image: url('../img/backg.jpg');
+    background-position: center; 
+  background-repeat: no-repeat; 
+  background-size: cover; 
+}
+
+.jumbotron{
+
+    background-color: black;
+    color: antiquewhite;
+}
+.card-body{
+    color:#03cee9;
+  }
+
+nav {
+
+    background-color:  rgb(255, 255, 255);
+    text-align: center;    
+    margin-left: center;
+    margin-right: center;
+
+}
+
+
+.content {
+    color: antiquewhite;
+    background-color: black;
+    min-height: 50vh;
+    padding: 2em;
+}
+
+.footer{
+
+    background-color:   rgb(255, 255, 255);
+    min-height: 2vh;
+    padding: 2em;
+    margin-top: 2em;
+
+}
+
+#nav {
+    text-align: center;
+    margin-left: center;
+    margin-right: center;
+}
+
